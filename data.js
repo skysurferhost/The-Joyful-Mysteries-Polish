@@ -161,7 +161,7 @@ var APP_DATA = {
     },
     {
       "id": "3-4-c-b-dng-c-cha-gisu-trong-n-thnh",
-      "name": "四、圣母献耶稣于圣殿",
+      "name": "4. Ofiarowanie Pana Jezusa w świątyni",
       "levels": [
         {
           "tileSize": 256,
@@ -209,14 +209,14 @@ var APP_DATA = {
         {
           "yaw": 0.004950021509621649,
           "pitch": -0.5050909207814644,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">圣母献耶稣于圣殿</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">按梅瑟的法律，一满了他们取洁的日期，他们便带着孩子上耶路撒冷去献给上主，就如上主的法律上所记载的：「凡开胎首生的男性，应祝圣于上主。」并该照上主法律上所吩咐的，献上祭物：一对斑鸠或两只鶵鸽。那时，在耶路撒冷有一个人，名叫西默盎。这人正义虔诚，期待着以色列的安慰，而且圣神也在他身上。他曾蒙圣神启示：自己在未看见上主的受傅者以前，决见不到死亡。他因圣神的感动，进了圣殿；那时，抱着婴孩耶稣的父母正进来，要按着法律的惯例为他行礼。西默盎就双臂接过他来，赞美天主说：</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">「主啊！现在可照你的话，放你的仆人平安去了！因为我亲眼看见了你的救援，即你在万民之前早准备好的：为作启示异邦的光明，你百姓以色列的荣耀。」</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">他的父亲和母亲就惊异他关于耶稣所说的这些话。西默盎祝福了他们，又向他的母亲玛利亚说：「看，这孩子已被立定，为使以色列中许多人跌倒和复起，并成为反对的记号──至于你，要有一把利剑剌透你的心灵──为叫许多人心中的思念显露出来。」</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">又有一位女先知亚纳，是阿协尔支派法奴耳的女儿，已上了年纪。她出阁后，与丈夫同居了七年，以后就守寡，直到八十四岁。她斋戒祈祷，昼夜事奉天主，总不离开圣殿。正在那时刻，她也前来称谢天主，并向一切希望耶路撒冷得救赎的人，讲论这孩子。<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(路加福音 2:22-38)</span></p>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Ofiarowanie Pana Jezusa w świątyni</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Gdy potem upłynęły dni ich oczyszczenia według Prawa Mojżeszowego, przynieśli Je do Jerozolimy, aby Je przedstawić Panu. Tak bowiem jest napisane w Prawie Pańskim: Każde pierworodne dziecko płci męskiej będzie poświęcone Panu. Mieli również złożyć w ofierze parę synogarlic albo dwa młode gołębie, zgodnie z przepisem Prawa Pańskiego. A żył w Jerozolimie człowiek, imieniem Symeon. Był to człowiek prawy i pobożny, wyczekiwał pociechy Izraela, a Duch Święty spoczywał na nim. Jemu Duch Święty objawił, że nie ujrzy śmierci, aż zobaczy Mesjasza Pańskiego. Za natchnieniem więc Ducha przyszedł do świątyni. A gdy Rodzice wnosili Dzieciątko Jezus, aby postąpić z Nim według zwyczaju Prawa, on wziął Je w objęcia, błogosławił Boga i mówił:</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">«Teraz, o Władco, pozwól odejść słudze Twemu w pokoju, według Twojego słowa. Bo moje oczy ujrzały Twoje zbawienie, któreś przygotował wobec wszystkich narodów: światło na oświecenie pogan i chwałę ludu Twego, Izraela».</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">A Jego ojciec i Matka dziwili się temu, co o Nim mówiono. Symeon zaś błogosławił Ich i rzekł do Maryi, Matki Jego: «Oto Ten przeznaczony jest na upadek i na powstanie wielu w Izraelu, i na znak, któremu sprzeciwiać się będą. A Twoją duszę miecz przeniknie, aby na jaw wyszły zamysły serc wielu».</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Była tam również prorokini Anna, córka Fanuela z pokolenia Asera, bardzo podeszła w latach. Od swego panieństwa siedem lat żyła z mężem i pozostała wdową. Liczyła już osiemdziesiąty czwarty rok życia. Nie rozstawała się ze świątynią, służąc Bogu w postach i modlitwach dniem i nocą. Przyszedłszy w tej właśnie chwili, sławiła Boga i mówiła o Nim wszystkim, którzy oczekiwali wyzwolenia Jerozolimy.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Łukasz 2:22-38)</span></p>"
         }
       ]
     },
     {
       "id": "4-5-c-b-tm-c-c-cha-gisu-trong-n-thnh",
-      "name": "五、耶稣十二龄讲道",
+      "name": "5. Odnalezienie Pana Jezusa w świątyni",
       "levels": [
         {
           "tileSize": 256,
@@ -258,8 +258,8 @@ var APP_DATA = {
         {
           "yaw": -0.15803943551415855,
           "pitch": -0.41004943600042054,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">耶稣十二龄讲道</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">他的父母每年逾越节往耶路撒冷去。他到了十二岁时，他们又照节日的惯例上去了。过完了节日，他们回去的时候，孩童耶稣却留在耶路撒冷，他的父母并未发觉。他们只以为他在同行的人中间，遂走了一天的路程；以后，就在亲戚和相识的人中寻找他。既找不着，便折回耶路撒冷找他。</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">过了三天，才在圣殿里找到了他。他正坐在经师中，聆听他们，也询问他们。凡听见他的人，对他的智慧和对答，都惊奇不止。他们一看见他，便大为惊异，他的母亲就向他说：「孩子，为什么你这样对待我们？看，你的父亲和我，一直痛苦的找你。」耶稣对他们说：「你们为什么寻找我？你们不知道我必须在我父亲那里吗？」但是，他们不明白他对他们所说的话。<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(路加福音 2:41-50)</span></p>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Odnalezienie Pana Jezusa w świątyni</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Rodzice Jego chodzili co roku do Jerozolimy na Święto Paschy. Gdy miał lat dwanaście, udali się tam zwyczajem świątecznym. Kiedy wracali po skończonych uroczystościach, został Jezus w Jerozolimie, a tego nie zauważyli Jego Rodzice. Przypuszczając, że jest w towarzystwie pątników, uszli dzień drogi i szukali Go wśród krewnych i znajomych. Gdy Go nie znaleźli, wrócili do Jerozolimy szukając Go.</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Dopiero po trzech dniach odnaleźli Go w świątyni, gdzie siedział między nauczycielami, przysłuchiwał się im i zadawał pytania. Wszyscy zaś, którzy Go słuchali, byli zdumieni bystrością Jego umysłu i odpowiedziami. Na ten widok zdziwili się bardzo, a Jego Matka rzekła do Niego: «Synu, czemuś nam to uczynił? Oto ojciec Twój i ja z bólem serca szukaliśmy Ciebie». Lecz On im odpowiedział: «Czemuście Mnie szukali? Czy nie wiedzieliście, że powinienem być w tym, co należy do mego Ojca?» Oni jednak nie zrozumieli tego, co im powiedział.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Łukasz 2:41-50)</span></p>"
         }
       ]
     }
