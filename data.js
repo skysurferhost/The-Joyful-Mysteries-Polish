@@ -51,7 +51,7 @@ var APP_DATA = {
     },
     {
       "id": "1-2-c-b-i-ving-b-thnh-isave",
-      "name": "二、圣母往见圣妇依撒伯尔",
+      "name": "2. Nawiedzenie świętej Elżbiety",
       "levels": [
         {
           "tileSize": 256,
@@ -99,14 +99,14 @@ var APP_DATA = {
         {
           "yaw": -0.12524373470416705,
           "pitch": -0.6640726414363716,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">圣母往见圣妇依撒伯尔</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">玛利亚就在那几日起身，急速往山区去，到了犹大的一座城。她进了匝加利亚的家，就给依撒伯尔请安。依撒伯尔一听到玛利亚请安，胎儿就在她的腹中欢跃。依撒伯尔遂充满了圣神，大声呼喊说：「在女人中你是蒙祝福的，你的胎儿也是蒙祝福的。吾主的母亲驾临我这里，这是我那里得来的呢？看，你请安的声音一入我耳，胎儿就在我腹中欢喜踊跃。那信了由上主传于她的话必要完成的，是有福的。」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(路加福音 1:39-45)</div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Nawiedzenie świętej Elżbiety</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">W tym czasie Maryja wybrała się i poszła z pośpiechem w góry do pewnego miasta w [pokoleniu] Judy. Weszła do domu Zachariasza i pozdrowiła Elżbietę. Gdy Elżbieta usłyszała pozdrowienie Maryi, poruszyło się dzieciątko w jej łonie, a Duch Święty napełnił Elżbietę. Wydała ona okrzyk i powiedziała: «Błogosławiona jesteś między niewiastami i błogosławiony jest owoc Twojego łona. A skądże mi to, że Matka mojego Pana przychodzi do mnie? Oto, skoro głos Twego pozdrowienia zabrzmiał w moich uszach, poruszyło się z radości dzieciątko w moim łonie. Błogosławiona jesteś, któraś uwierzyła, że spełnią się słowa powiedziane Ci od Pana».<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Łukasz 1:39-45)</div>"
         }
       ]
     },
     {
       "id": "2-3-c-b-sinh-c-cha-gisu-ni-hang-",
-      "name": "三、耶稣基督降生",
+      "name": "3. Narodzenie Pana Jezusa",
       "levels": [
         {
           "tileSize": 256,
@@ -154,8 +154,8 @@ var APP_DATA = {
         {
           "yaw": -0.16032498761056857,
           "pitch": -0.4172683295906481,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">耶稣基督降生</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">那时凯撒奥古斯都出了一道上谕，叫天下的人都要登记：这是在季黎诺作叙利亚总督时，初次行的登记。于是，众人各去本城登记。若瑟因为是达味家族的人，也从加里肋亚纳匝肋城，上犹大名叫白冷的达味城去，好同自己已怀孕的聘妻玛利亚去登记。他们在那里的时候，她分娩的日期满了，便生了她的头胎男儿，用襁褓里起，放在马槽里，因为在客栈中为他们没有地方。</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">在那地区有些牧人露宿，守夜看守羊群。有上主的一个天使站在他们身边，上主的光耀环照着他们，他们便非常害怕。天使向他们说：「不要害怕！看！我给你们报告一个为全民族的大喜讯：今天在达味城中，为你们诞生了一位救世者，他是主默西亚。这是给你们的记号：你们将要看见一个婴儿，里着襁褓，躺在马槽里。」忽有一大队天军，同那天使一起赞颂天主说：</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">「天主受享光荣于高天，主爱的人在世享平安！」</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">众天使离开他们往天上去了以后，牧人们就彼此说：「我们且往白冷去，看看上主报告给我们所发生的事。」他们急忙去了，找到了玛利亚和若瑟，并那躺在马槽中的婴儿。他们看见以后，就把天使对他们论这小孩所说的事，传扬开了，凡听见的人都惊讶牧人向他们所说的事。玛利亚却把这一切事默存在自己心中，反复思想。牧人们为了他们所听见和看见的一切，正如天使向他们说的一样，就光荣赞美天主回去了。<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(路加福音 2:1-20)</span></p>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Narodzenie Pana Jezusa</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">W owym czasie wyszło rozporządzenie Cezara Augusta1, żeby przeprowadzić spis ludności w całym państwie. Pierwszy ten spis odbył się wówczas, gdy wielkorządcą Syrii był Kwiryniusz. Wybierali się więc wszyscy, aby się dać zapisać, każdy do swego miasta. Udał się także Józef z Galilei, z miasta Nazaret, do Judei, do miasta Dawidowego, zwanego Betlejem, ponieważ pochodził z domu i rodu Dawida, żeby się dać zapisać z poślubioną sobie Maryją, która była brzemienna. Kiedy tam przebywali, nadszedł dla Maryi czas rozwiązania. Porodziła swego pierworodnego Syna, owinęła Go w pieluszki i położyła w żłobie, gdyż nie było dla nich miejsca w gospodzie.</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">W tej samej okolicy przebywali w polu pasterze i trzymali straż nocną nad swoją trzodą. Naraz stanął przy nich anioł Pański i chwała Pańska zewsząd ich oświeciła, tak że bardzo się przestraszyli. Lecz anioł rzekł do nich: «Nie bójcie się! Oto zwiastuję wam radość wielką, która będzie udziałem całego narodu: dziś w mieście Dawida narodził się wam Zbawiciel, którym jest Mesjasz, Pan. A to będzie znakiem dla was: Znajdziecie Niemowlę, owinięte w pieluszki i leżące w żłobie». I nagle przyłączyło się do anioła mnóstwo zastępów niebieskich, które wielbiły Boga słowami:</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">«Chwała Bogu na wysokościach, a na ziemi pokój ludziom Jego upodobania».</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Gdy aniołowie odeszli od nich do nieba, pasterze mówili nawzajem do siebie: «Pójdźmy do Betlejem i zobaczmy, co się tam zdarzyło i o czym nam Pan oznajmił». Udali się też z pośpiechem i znaleźli Maryję, Józefa i Niemowlę, leżące w żłobie. Gdy Je ujrzeli, opowiedzieli o tym, co im zostało objawione o tym Dziecięciu. A wszyscy, którzy to słyszeli, dziwili się temu, co im pasterze opowiadali. Lecz Maryja zachowywała wszystkie te sprawy i rozważała je w swoim sercu. A pasterze wrócili, wielbiąc i wysławiając Boga za wszystko, co słyszeli i widzieli, jak im to było powiedziane.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Łukasz 2:1-20)</span></p>"
         }
       ]
     },
