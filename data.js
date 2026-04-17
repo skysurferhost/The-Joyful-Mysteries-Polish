@@ -51,7 +51,7 @@ var APP_DATA = {
     },
     {
       "id": "1-2-c-b-i-ving-b-thnh-isave",
-      "name": "2. Nawiedzenie świętej Elżbiety",
+      "name": "2. Nawiedzenie Świętej Elżbiety",
       "levels": [
         {
           "tileSize": 256,
@@ -99,7 +99,7 @@ var APP_DATA = {
         {
           "yaw": -0.12524373470416705,
           "pitch": -0.6640726414363716,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Nawiedzenie świętej Elżbiety</span><o:p></o:p></p>",
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Nawiedzenie Świętej Elżbiety</span><o:p></o:p></p>",
           "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">W tym czasie Maryja wybrała się i poszła z pośpiechem w góry do pewnego miasta w [pokoleniu] Judy. Weszła do domu Zachariasza i pozdrowiła Elżbietę. Gdy Elżbieta usłyszała pozdrowienie Maryi, poruszyło się dzieciątko w jej łonie, a Duch Święty napełnił Elżbietę. Wydała ona okrzyk i powiedziała: «Błogosławiona jesteś między niewiastami i błogosławiony jest owoc Twojego łona. A skądże mi to, że Matka mojego Pana przychodzi do mnie? Oto, skoro głos Twego pozdrowienia zabrzmiał w moich uszach, poruszyło się z radości dzieciątko w moim łonie. Błogosławiona jesteś, któraś uwierzyła, że spełnią się słowa powiedziane Ci od Pana».<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Łukasz 1:39-45)</div>"
         }
       ]
@@ -161,7 +161,7 @@ var APP_DATA = {
     },
     {
       "id": "3-4-c-b-dng-c-cha-gisu-trong-n-thnh",
-      "name": "4. Ofiarowanie Pana Jezusa w świątyni",
+      "name": "4. Ofiarowanie Pana Jezusa w Świątyni",
       "levels": [
         {
           "tileSize": 256,
@@ -209,14 +209,14 @@ var APP_DATA = {
         {
           "yaw": 0.004950021509621649,
           "pitch": -0.5050909207814644,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Ofiarowanie Pana Jezusa w świątyni</span><o:p></o:p></p>",
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Ofiarowanie Pana Jezusa w Świątyni</span><o:p></o:p></p>",
           "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Gdy potem upłynęły dni ich oczyszczenia według Prawa Mojżeszowego, przynieśli Je do Jerozolimy, aby Je przedstawić Panu. Tak bowiem jest napisane w Prawie Pańskim: Każde pierworodne dziecko płci męskiej będzie poświęcone Panu. Mieli również złożyć w ofierze parę synogarlic albo dwa młode gołębie, zgodnie z przepisem Prawa Pańskiego. A żył w Jerozolimie człowiek, imieniem Symeon. Był to człowiek prawy i pobożny, wyczekiwał pociechy Izraela, a Duch Święty spoczywał na nim. Jemu Duch Święty objawił, że nie ujrzy śmierci, aż zobaczy Mesjasza Pańskiego. Za natchnieniem więc Ducha przyszedł do świątyni. A gdy Rodzice wnosili Dzieciątko Jezus, aby postąpić z Nim według zwyczaju Prawa, on wziął Je w objęcia, błogosławił Boga i mówił:</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">«Teraz, o Władco, pozwól odejść słudze Twemu w pokoju, według Twojego słowa. Bo moje oczy ujrzały Twoje zbawienie, któreś przygotował wobec wszystkich narodów: światło na oświecenie pogan i chwałę ludu Twego, Izraela».</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">A Jego ojciec i Matka dziwili się temu, co o Nim mówiono. Symeon zaś błogosławił Ich i rzekł do Maryi, Matki Jego: «Oto Ten przeznaczony jest na upadek i na powstanie wielu w Izraelu, i na znak, któremu sprzeciwiać się będą. A Twoją duszę miecz przeniknie, aby na jaw wyszły zamysły serc wielu».</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Była tam również prorokini Anna, córka Fanuela z pokolenia Asera, bardzo podeszła w latach. Od swego panieństwa siedem lat żyła z mężem i pozostała wdową. Liczyła już osiemdziesiąty czwarty rok życia. Nie rozstawała się ze świątynią, służąc Bogu w postach i modlitwach dniem i nocą. Przyszedłszy w tej właśnie chwili, sławiła Boga i mówiła o Nim wszystkim, którzy oczekiwali wyzwolenia Jerozolimy.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Łukasz 2:22-38)</span></p>"
         }
       ]
     },
     {
       "id": "4-5-c-b-tm-c-c-cha-gisu-trong-n-thnh",
-      "name": "5. Odnalezienie Pana Jezusa w świątyni",
+      "name": "5. Odnalezienie Pana Jezusa w Świątyni",
       "levels": [
         {
           "tileSize": 256,
@@ -258,7 +258,7 @@ var APP_DATA = {
         {
           "yaw": -0.15803943551415855,
           "pitch": -0.41004943600042054,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Odnalezienie Pana Jezusa w świątyni</span><o:p></o:p></p>",
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Odnalezienie Pana Jezusa w Świątyni</span><o:p></o:p></p>",
           "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Rodzice Jego chodzili co roku do Jerozolimy na Święto Paschy. Gdy miał lat dwanaście, udali się tam zwyczajem świątecznym. Kiedy wracali po skończonych uroczystościach, został Jezus w Jerozolimie, a tego nie zauważyli Jego Rodzice. Przypuszczając, że jest w towarzystwie pątników, uszli dzień drogi i szukali Go wśród krewnych i znajomych. Gdy Go nie znaleźli, wrócili do Jerozolimy szukając Go.</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Dopiero po trzech dniach odnaleźli Go w świątyni, gdzie siedział między nauczycielami, przysłuchiwał się im i zadawał pytania. Wszyscy zaś, którzy Go słuchali, byli zdumieni bystrością Jego umysłu i odpowiedziami. Na ten widok zdziwili się bardzo, a Jego Matka rzekła do Niego: «Synu, czemuś nam to uczynił? Oto ojciec Twój i ja z bólem serca szukaliśmy Ciebie». Lecz On im odpowiedział: «Czemuście Mnie szukali? Czy nie wiedzieliście, że powinienem być w tym, co należy do mego Ojca?» Oni jednak nie zrozumieli tego, co im powiedział.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Łukasz 2:41-50)</span></p>"
         }
       ]
